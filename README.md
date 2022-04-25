@@ -3,7 +3,7 @@
 - 📫 TG: @sashamumu 
 
 <p>
-  <img src="https://media2.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b76112eeef7d503d04a90db909f5299af48be7bf6ad82&rid=giphy.gif&ct=g" width="80" style="max-width: 100%;">
+    <img src="https://media2.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b76112eeef7d503d04a90db909f5299af48be7bf6ad82&rid=giphy.gif&ct=g" width="450">
 </p>
 
 <!---
